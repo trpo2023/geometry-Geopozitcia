@@ -1,2 +1,2 @@
-a.out : main.c
-	gcc -Wall -Werror main.c
+a.out : geometry.c
+	gcc -Wall -Werror geometry.c
